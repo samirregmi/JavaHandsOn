@@ -14,7 +14,7 @@ public class Findlargest {
 		System.out.println(min);
 	min++;
 	}
-		
+	System.out.println("This is Solved");	
 	}
 	
 	public static void findLargestAmongTwoNums(int a , int b) {
